@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Brendon Dyllan!👨🏻‍💻 
+### Olá! Eu sou Brendon Dyllan!👋
 <div> 
   <a href="https://www.linkedin.com/in/brendon-dyllan-5b8ab8197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/rafaballerini(https://www.instagram.com/_dyllanb/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -19,8 +19,4 @@
    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!
-  
-##
-
-
+Tenho como principal objetivo Transformar o mundo através da tecnologia!.
