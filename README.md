@@ -20,4 +20,4 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 </div><br/>
 
-Tenho como principal objetivo Transformar o mundo através da tecnologia!.
+Sucesso é o acúmulo de pequenos esforços construídos a cada dia!
